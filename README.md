@@ -39,14 +39,16 @@ A Pawsy é uma plataforma desenvolvida como parte do projeto de TCC do curso té
 ## Tecnologias Utilizadas
 A equipe de desenvolvimento utiliza as seguintes tecnologias para construção da plataforma Pawsy:
 
-- **Front-end:** ReactJS, TailwindCSS, ViteJS
-- **Back-end:** NodeJS e Express
+- **Front-end:** ReactJS, TailwindCSS, ViteJS, Yup,
+- **Back-end:** NodeJS, Express, JWT, Yup
 - **Banco de dados:** MySQL
-## Desenvolvedores
+## Time
 
 - [@Rômullo Melo](https://www.github.com/rom013)
 - [@Fernando Fernandes](https://www.github.com/Fernando-Fernandes05)
 - [@Pedro Daniel Brunetto](https://www.github.com/PedroDanielBrunetto)
+- [@Nicole](https://www.github.com/koleRosa)
+- @Luana
 
 
 ## Suporte
